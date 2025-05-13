@@ -15,3 +15,5 @@ This project explores a dataset containing information about various clothing it
 -Price – Price of the clothing item in USD
 
 We use statistical techniques to analyze trends, relationships, and patterns within the dataset. The goal is to understand how different factors such as brand, size, and material relate to pricing and categorization.
+
+Link Colab :https://colab.research.google.com/drive/1ygclYuAawZSaqc0JitIobzmDRxqrEnJn#scrollTo=GEo6uSy04F8D
